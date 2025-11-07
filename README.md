@@ -39,7 +39,7 @@ This recommendation system can be integrated into an e-commerce or beauty-tech p
 - Improve conversion rates through personalised product suggestions.  
 - Assist product discovery for new users by leveraging the hybrid model’s cold-start handling.  
 - Provide analytics for brands on how users respond to product features and recommendations.
-
+- Here App link [https://beautyrecomendation-qxpwj9uaxbzik25zmfs7tq.streamlit.app/]
 ---
 
 ⭐ _**Created by:** Rambabu Bevara | Aspiring Data Analyst & Machine Learning Developer_  
