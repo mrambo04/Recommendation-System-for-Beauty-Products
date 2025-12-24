@@ -15,7 +15,7 @@ To build and deploy a machine-learning-based recommendation engine that helps us
 - (Optional: Streamlit / Flask for deployment)  
 
 ## 🧮 Approach  
-1. **Data Ingestion & Exploration** – Gather and examine product metadata (category, brand, features), user ratings/feedback.  
+1. **Data Ingestion & Exploration** – Gather and examine product metadata (category, brand, features), user ratings/feedback.   
 2. **Data Cleaning & Preprocessing** – Handle missing values, normalize features, encode categorical data.   
 3. **Feature Engineering** – Extract meaningful features (brand affinity, product category similarity, user behaviour patterns).  
 4. **Recommendation Model**  
