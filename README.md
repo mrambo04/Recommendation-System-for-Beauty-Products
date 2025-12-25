@@ -11,7 +11,7 @@ To build and deploy a machine-learning-based recommendation engine that helps us
 - Pandas, NumPy   
 - Scikit-Learn  
 - Cosine Similarity, TF-IDF     
-- Jupyter Notebook   
+- Jupyter Notebook    
 - (Optional: Streamlit / Flask for deployment)  
 
 ## 🧮 Approach  
