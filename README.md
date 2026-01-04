@@ -7,7 +7,7 @@ This project presents a recommendation system tailored for beauty products, leve
 To build and deploy a machine-learning-based recommendation engine that helps users discover beauty products aligned to their tastes and past behaviour, thereby enhancing user engagement and conversion rates. 
       
 ## 🧰 Tools & Technologies     
-- Python   
+- Python    
 - Pandas, NumPy   
 - Scikit-Learn   
 - Cosine Similarity, TF-IDF     
