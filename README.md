@@ -9,7 +9,7 @@ To build and deploy a machine-learning-based recommendation engine that helps us
 ## 🧰 Tools & Technologies       
 - Python     
 - Pandas, NumPy     
-- Scikit-Learn   
+- Scikit-Learn    
 - Cosine Similarity, TF-IDF       
 - Jupyter Notebook    
 - (Optional: Streamlit / Flask for deployment)  
