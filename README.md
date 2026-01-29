@@ -2,7 +2,7 @@
 
 ## 📘 Project Overview  
 This project presents a recommendation system tailored for beauty products, leveraging user-preferences and product metadata to generate personalized suggestions. The system combines collaborative filtering and content-based methods to deliver relevant product recommendations in the beauty domain.
-
+ 
 ## 🎯 Objective    
 To build and deploy a machine-learning-based recommendation engine that helps users discover beauty products aligned to their tastes and past behaviour, thereby enhancing user engagement and conversion rates. 
        
