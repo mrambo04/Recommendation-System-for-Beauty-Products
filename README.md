@@ -13,7 +13,7 @@ To build and deploy a machine-learning-based recommendation engine that helps us
 - Cosine Similarity, TF-IDF       
 - Jupyter Notebook    
 - (Optional: Streamlit / Flask for deployment)  
- 
+  
 ## 🧮 Approach  
 1. **Data Ingestion & Exploration** – Gather and examine product metadata (category, brand, features), user ratings/feedback.   
 2. **Data Cleaning & Preprocessing** – Handle missing values, normalize features, encode categorical data.   
