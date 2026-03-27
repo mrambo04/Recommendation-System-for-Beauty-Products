@@ -12,7 +12,7 @@ To build and deploy a machine-learning-based recommendation engine that helps us
 - Scikit-Learn          
 - Cosine Similarity, TF-IDF         
 - Jupyter Notebook      
-- (Optional: Streamlit / Flask for deployment)    
+- (Optional: Streamlit / Flask for deployment)     
   
 ## 🧮 Approach  
 1. **Data Ingestion & Exploration** – Gather and examine product metadata (category, brand, features), user ratings/feedback.   
